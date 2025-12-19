@@ -55,6 +55,3 @@ ___
 
 [learn about Data Base](https://www.mysql.com/)
 ___
-##image
-
-![Github-mage](https://octodex.github.com/images/dojocat.jpg)
